@@ -1,0 +1,155 @@
+img,
+picture,
+video,
+embed {
+  max-width: 100%;
+}
+
+#menu ul li {
+  display: inline;
+  margin: 0px;
+  padding: 80px;
+}
+
+#menu ul li a:hover {
+  font-weight: bold;
+  color: #ffe600;
+}
+
+#menu {
+  background-color: #ffffff;
+  list-style: none;
+  text-align: center;
+  font-family: 'H', 'Trebuchet MS', 'Helvetica';
+  font-size: 18px;
+}
+
+li a {
+  text-decoration: none !important;
+  color: #696969;
+}
+
+.logo {
+  width: 100%;
+  margin-right: 0%;
+}
+
+table.cores tr td:hover {
+  font-weight: bold;
+  background: #c0c0b4;
+}
+
+table.cores tr td {
+  border: 25px solid white;
+  height: 120px;
+  width: 300px;
+  text-align: center;
+  font-family: 'H', 'Trebuchet MS', 'Helvetica';
+  font-size: 18px;
+}
+
+#catalogo img {
+  margin-left: 3%;
+  width: 10%;
+  display: inline-block;
+  padding: 0;
+}
+#catalogo img:hover {
+    
+    width: 11%;}
+
+#título img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#logotipos img{align=right; 
+border-right: 100px solid white;
+border-left: 100px solid white;
+}
+
+#textologo { margin: 100px;
+}
+
+p{  
+    font-family: 'H', 'Trebuchet MS', 'Helvetica';
+    font-size: 23px;
+    text-align: center;
+
+}
+
+#textologo p {
+text-align: left;
+border: 60px;}
+ }
+.
+.exemplogill {
+  font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+
+.exemplocourier {font-size: 18px;
+    text-align: center;
+  font-family: Courier, "Lucida Console", monospace;
+}
+
+.exemploserif { font-size: 18px;
+    text-align: center;
+    font-family: Times, "Times New Roman", serif;
+}
+
+.exemplosansserif { font-size: 18px;
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.exemplomonospace {font-size: 18px;
+     text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.exemplocursive { font-size: 18px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.exemplofantasy { font-size: 18px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+footer { background-color: black;}
+ 
+            #rodapé {
+            background-color:black;
+            color: white;
+            padding-top: 30px;
+        }
+        
+        #rodapé .row {
+            margin-bottom: 60px;
+        }
+        
+        #rodapé .navbar-brand {
+            margin-top: 45px;
+            height: 65px;
+        }
+    
+        #rodapé ul {
+            list-style-type: none;
+            line-height: 1.7;
+        }
+        
+        #rodapé h5 {
+            font-size: 18px;
+            color: white;
+            font-weight: bold;
+            margin-top: 30px;
+        }
+ 
+        body{
+            display: flex;
+            flex-direction: column;
+            -webkit-flex-direction: column;
+            height: 100%;
+        }
